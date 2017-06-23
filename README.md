@@ -14,9 +14,15 @@ Use
 -----------
 To provide warehouses/ stores with the most realtime and accurate inventory possible.  No more cycle counting.  No more stock outs.  Let gravity do the work for you! 
 
-## Sample Pictures
-+ Calibrating for 0 units (empty scale/rack/bin)
+## Sample Prototype
++ Calibrating for 0 units (empty scale/rack/bin):
 
-+ Capture weight of 1 unit
+![alt text](https://github.com/EttelasK/smart-rack/blob/master/SR-img/sr_img1.png)
 
-+ Unit Inventory = Total weight on scale / 1 Unit weight
++ Capture weight of 1 unit:
+
+![alt text](https://github.com/EttelasK/smart-rack/blob/master/SR-img/sr-img2.png)
+
++ Unit Inventory = Total weight on scale / 1 Unit weight:
+
+![alt text](https://github.com/EttelasK/smart-rack/blob/master/SR-img/sr-img3.png)
